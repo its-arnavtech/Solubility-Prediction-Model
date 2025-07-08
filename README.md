@@ -1,2 +1,4 @@
 # Salaries-for-AI-ML-Engineers
-This repo is currently working on creating a machine learning model that predicts salaries of AI/ML Engineers in the near future
+This repo has worked on building a machine learning model using LinearRegression from the sklearn library to predict salaries for future AI/ML employees.
+Code in main.py contains the model. running it will output predicted salaries
+Currently working on a way to make output look better.
